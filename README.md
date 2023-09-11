@@ -12,4 +12,4 @@ Some of the custom features I built for Amazon QuickSight while working at AWS:
 - **API to automate user management (Delete operation)** - https://github.com/sagarlakshmipathy/transfer-assets
 
 
-[![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarlakshmipathy&show_icons=true&theme=dark)(https://github.com/sagarlakshmipathy/github-readme-stats)
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarlakshmipathy&show_icons=true&theme=dark)
